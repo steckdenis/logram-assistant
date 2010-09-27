@@ -1,0 +1,21 @@
+<page title="Les systèmes d'exploitation">
+    <text>
+        Bienvenue dans cette première partie de votre découverte du monde de Linux. Tout d'abord, il faut savoir
+	que Linux est un [i]système d'exploitation[/i]. Vous allez apprendre qu'est ce que c'est, à quoi cela sert, 
+	quels sont ses rôles, etc. 
+    </text>
+    <text>
+        Commençons par une petite explication technique. Vous avez sûrement déjà lu la page sur les systèmes
+	d'exploitation dans la première partie. Le système d'exploitation et sans doute une des parties les
+	plus importantes de votre ordinateur. C'est un [i]programme[/i] assez particulier, dont le rôle est de gérer le
+	matériel présent sur votre ordinateur, comme l'écran, le clavier, la souris, ou plus important, la mémoire. 
+	Il va ensuite fournir à l'utilisateur une interface pour lui permettre d'utiliser ce matériel, et d'utiliser 
+	des logiciels. Son rôle est donc plus simplement de faire fonctionner votre ordinateur. 
+    </text>
+    <text>
+        Linux fait partie des principaux système d'exploitation du marché informatique. Notez qu'il en existe d'autres
+	comme le célèbre Windows© de Microsoft®, Mac OS© d'Apple®, ou encore la famille des BSD. Vous apprendrez les
+	différences qu'il existe entre eux dans une partie suivante.
+    </text>
+
+</page>

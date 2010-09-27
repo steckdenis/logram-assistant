@@ -1,0 +1,144 @@
+<page title="Accueil" page="home.xml">
+    <page title="Découvrir l'ordinateur" page="compu-home.xml">
+        <page title="Savoir nécessaire pour continuer" page="compu-known.xml" />
+        <page title="Maîtriser la souris" page="compu-mouse.xml" />
+        <page title="Maîtriser le clavier" page="compu-keyboard.xml" />
+        <page title="Structure d'un ordinateur" page="compu-struct.xml">
+            <page title="Le matériel" page="compu-hardware.xml" />
+            <page title="Le système d'exploitation" page="compu-os.xml" />
+            <page title="Les fichiers" page="compu-files" />
+            <page title="Les logiciels" page="compu-software.xml" />
+            <page title="L'interface" page="compu-interface.xml" />
+            <page title="L'environnement" page="compu-environment.xml" />
+        </page>
+        <page title="Ce qui vous attend en partie 3">
+            <page title="Les réseaux" page="compu-network.xml" />
+            <page title="Internet" page="compu-internet.xml" />
+            <page title="Gestion des programmes" page="compu-packages.xml" />
+            <page title="Gestion des fichiers" page="compu-filemanagment.xml" />
+            <page title="L'administration" page="compu-admin.xml" />
+        </page>
+    </page>
+    
+    <page title="Découvrir Linux" page="linux-home.xml">
+        <page title="Les systèmes d'exploitation" page="linux-os.xml" />
+        <page title="Brève histoire de Linux" page="linux-history.xml" />
+        <page title="La philosophie du Libre" page="linux-free.xml" />
+        <page title="Les distributions" page="linux-distros.xml" />
+        <page title="Éléments du système" page="linux-arch.xml" />
+        <page title="La console est votre amie !" page="linux-console.xml" />
+        <page title="Différences principales" page="linux-differences.xml">
+            <page title="Le système de fichier" page="linux-filesystem.xml" />
+            <page title="Gestion des droits" page="linux-rights.xml" />
+            <page title="Configuration" page="linux-config.xml" />
+            <page title="Les applications" page="linux-applis.xml" />
+            <page title="Le Libre sur un plateau" page="linux-libre.xml" />
+        </page>
+    </page>
+        
+    <page title="Découvrir Logram" page="logram-home.xml">
+        <page title="KDE, l'environnement de bureau" page="logram-kde.xml">
+            <page title="Découverte du bureau" page="logram-kde-desktop.xml">
+                <page title="Le fond d'écran" page="logram-kde-wallpaper.xml" />
+                <page title="Les plasmoïdes" page="logram-kde-plasmoids.xml" />
+                <page title="Les panels" page="logram-kde-panels.xml" />
+                <page title="Personnalisation" page="logram-kde-custom.xml" />
+            </page>
+            <page title="Le panel" page="logram-kde-panel.xml">
+                <page title="Heure et notifications" page="logram-kde-notify.xml" />
+                <page title="Liste des tâches" page="logram-kde-tasks.xml" />
+                <page title="Les bureaux virtuels" page="logram-kde-virtual-desktops.xml" />
+                <page title="Différentes applets" page="logram-kde-applets.xml" />
+                <page title="Le menu K" page="logram-kde-kmenu.xml" />
+                <page title="Personnalisation" page="logram-kde-panel-custom.xml" />
+            </page>
+            <page title="Le menu K" page="logram-kde-k.xml">
+                <page title="Vos favoris" page="logram-kde-bookmarks.xml" />
+                <page title="Les applications" page="logram-kde-applis.xml" />
+                <page title="Poste de travail" page="logram-kde-computer.xml" />
+                <page title="Utilisé récemment" page="logram-kde-history.xml" />
+                <page title="Quitter" page="logram-kde-quit.xml" />
+            </page>
+        </page>
+        <page title="Gérez vos fichiers" page="logram-dolphin.xml">
+            <page title="Présentation de Dolphin" page="logram-dolphin-presentation.xml" />
+            <page title="Le dossier personnel" page="logram-dolphin-homedir.xml" />
+            <page title="Créer un dossier" page="logram-dolphin-createdir.xml" />
+            <page title="Opérations sur les fichiers" page="logram-dolphin-createdir.xml" />
+            <page title="Tags et tris" page="logram-dolphin-tags.xml" />
+            <page title="La vitesse supérieur" page="logram-dolphin-advanced.xml">
+                <page title="Les onglets" page="logram-dolphin-tabs.xml" />
+                <page title="Modes d'affichage" page="logram-dolphin-views.xml" />
+                <page title="Liens symboliques" page="logram-dolphin-symlinks.xml" />
+                <page title="Disques externes et montages" page="logram-dolphin-mount.xml" />
+                <page title="Les fichiers ... quelque-part" page="logram-dolphin-kio.xml" />
+            </page>
+        </page>
+        <page title="Navigation sur Internet" page="logram-konqueror.xml">
+            <page title="«Suisse, Couteau Suisse»" page="logram-konqueror-presentation.xml" />
+            <page title="Votre première page web" page="logram-konqueror-webpage.xml" />
+            <page title="Navigation sur un site" page="logram-konqueror-website.xml" />
+            <page title="Le site de Logram" page="logram-konqueror-logram.xml" />
+            <page title="Les recherches" page="logram-konqueror-search.xml" />
+            <page title="Il fait navigateur de fichiers aussi !" page="logram-konqueror-filemanager.xml" />
+            <page title="Ainsi que visionneur de documents !" page="logram-konqueror-fileviewer.xml" />
+            <page title="Et éditeur de texte" page="logram-konqueror-parts.xml" />
+            <page title="Bref, il fait tout" page="logram-konqueror-all.xml" />
+        </page>
+        <page title="La bureautique" page="logram-koffice.xml">
+            <page title="Traitement de texte" page="logram-koffice-kword.xml">
+                <page title="Créer un document" page="logram-kword-new.xml" />
+                <page title="Formattage basique" page="logram-kword-formatting.xml" />
+                <page title="Jouons avec les styles" page="logram-kword-styles.xml" />
+                <page title="Insertion d'éléments" page="logram-kword-insert.xml" />
+                <page title="Mise en page avancée" page="logram-kword-advanced.xml" />
+            </page>
+            <page title="Classeur" page="logram-koffice-kspread.xml">
+                <page title="Que faire avec un classeur ?" page="logram-kspread-why.xml" />
+                <page title="Utilisation basique" page="logram-kspread-basic.xml" />
+                <page title="Des formules" page="logram-kspread-formulas.xml" />
+                <page title="Les graphiques" page="logram-kspread-charts.xml" />
+                <page title="Utilisation avancée" page="logram-kspread-advanced.xml" />
+            </page>
+            <page title="Présentations" page="logram-koffice-presenter.xml">
+                <page title="Utilisation basique" page="logram-kpresenter-basic.xml" />
+                <page title="Les thèmes" page="logram-kpresenter-themes.xml" />
+                <page title="Astuces" page="logram-kpresenter-tips.xml" />
+            </page>
+            <page title="Édition d'images" page="logram-koffice-krita.xml">
+                <page title="De quoi est faite une image ?" page="logram-krita-image.xml" />
+                <page title="Dessin de base" page="logram-krita-basic.xml" />
+                <page title="Formes" page="logram-krita-chapes.xml" />
+                <page title="Filtres" page="logram-krita-filters.xml" />
+                <page title="Effets poussés" page="logram-krita-effects.xml" />
+            </page>
+            <page title="Aller plus loin" page="logram-koffice-more.xml" />
+        </page>
+        <page title="Vous et les autres" page="logram-others.xml">
+            <page title="Les e-mails" page="logram-kmail.xml">
+                <page title="Pourquoi utiliser les mails ?" page="logram-kmail-why.xml" />
+                <page title="Configurer KMail" page="logram-kmail-configure.xml" />
+                <page title="Créer un message" page="logram-kmail-write.xml" />
+                <page title="Lire ses messages" page="logram-kmail-read.xml" />
+                <page title="Classer ses messages" page="logram-kmail-class.xml" />
+                <page title="Messagerie avancée" page="logram-kmail-advanced.xml" />
+            </page>
+            <page title="Autres applications" page="logram-kontact.xml">
+                <page title="Votre calendrier" page="logram-kalendar.xml" />
+                <page title="Soyez au goût du jour" page="logram-akregator.xml" />
+                <page title="Vos contacts" page="logram-kontact-kontact.xml" />
+                <page title="Discutez avec vos amis" page="logram-kopete.xml" />
+            </page>
+            <page title="Mettons le tout ensemble" page="logram-kontact-all.xml" />
+        </page>
+        <page title="Maîtrisez votre ordinateur" page="logram-admin.xml">
+            <page title="Ajout et suppression de programmes" page="logram-packages.xml" />
+            <page title="Soyez à jour !" page="logram-update.xml" />
+            <page title="Configuration avancée du bureau" page="logram-advanced-config.xml" />
+            <page title="Gérez les utilisateurs" page="logram-users-managment.xml" />
+            <page title="Configuration de base" page="logram-config-base.xml" />
+            <page title="Configuration avancée de la machin" page="logram-config-advanced.xml" />
+        </page>
+        <page title="Apprendre par vous-même" page="logram-learn.xml" />
+    </page>
+</page>

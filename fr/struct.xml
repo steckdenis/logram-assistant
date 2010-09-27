@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<doc lang="fr">
+	<homepage title="Bienvenue !" file="home.xml"/>
+	<part title="Découverte de l'ordinateur" file="compu-home.xml">
+		<page title="Avant de commencer" file="compu-first">
+	</part>
+	<part title="Découvrir Linux" file="linux-home.xml">
+	</part>
+</doc>

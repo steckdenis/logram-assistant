@@ -1,0 +1,23 @@
+<page title="Les différences principales">
+<text>
+	Ce chapitre sera bref, mais aura pour but de vous faire prendre connaissances des différences majeurs qui existent entre les systèmes d'exploitation. Ne vous attendez pas à "Linux est mieux
+	que Windows" ou l'inverse, ne seront exposés que les qualités et défauts de chacun.
+</text>
+<text>
+	Tout d'abord, une grande différence oppose le monde du libre au monde du propriétaire, à savoir la licence. Un des plus grands avantages des systèmes libres (Linux, BSD...) sur leurs
+	concurrents commerciaux (Mac OS, Windows...) est le fait que la plupart sont gratuits. Cependant, celà implique un léger inconvénient. Comme vous n'avez pas payé, vous n'etes en mesure
+	de réclamer aucun supprot technique. Les systèmes libres sont distribués dans l'espoir qu'ils seront utiles, mais sans aucune garantie qu'ils fonctionneront. Néanmoins, certaines
+	entreprises comme <strong>Novell</strong>, <strong>Mandriva</strong> ou <strong>Red Hat</strong>, fournissent un support et une assistance technique pour leur distribution, mais qui est 
+	alors bien souvent payante.
+</text>
+<text>
+	Une autre différence réside dans la manière d'installer ses applications. Sous Windows, on trouve souvent les exécutables sur le site de ses applications favories. Sous Linux, soit le 
+	logiciel est dans les <em>dépots</em> de la distribution, et vous pourrez l'installer en un clic, soit il n'y est pas, et vous serez contraints de faire quelque manipulation. Heureusement,
+	les dépots des plus grandes distributions contiennent un nombre impressionnant de logiciels, et on y trouve souvent ce qu'on y cherche, ou un équivalent.
+</text>
+<text>
+	Pour finir, Windows et Mac OS ont toujorus été conçus pour être intuitifs pour l'utilisateur. Certes, on peut en dire autant des environnements graphiques modernes de Linux tels qu Gnome
+	ou KDE (utilisé par Logram). Cependant, il n'est pas rare de recourir à la ligne de commande sous Linux. Cet aspect de l'ordinateur est bien plsu ancien et plus performant, mais un peu moins
+	évident de prime abord. Une fois qu'on a appris à s'en servir, la console (ou terminal), devient un veritable confort pour l'utilisateur. Une des prochaines parties a justement pour but de 
+	vous familiariser avec cet outil indispensable.
+</text>

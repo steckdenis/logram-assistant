@@ -1,0 +1,23 @@
+<page title="Présentation de Doplhin">
+
+<text> Pour commencer, nous allons ouvrir Dolphin. Certes, si vous double-cliquez sur un dossier pour l'ouvrir, l'ordinateur appellera automatiquement Doplhin pour cette tâche.
+Cependant, si vous voulez ouvrir Dolphin directement, il sera dans le menu K, dans la catégorie applications, puis dans la partie outils système. Vous pouvez également
+l'ouvrir en tapant "dolphin" dans une console.</text>
+
+<text> Vous devriez avoir la fenêtre de dolphin ouverte devant vous. Si vous n'avez pas ouvert un dossier spécial, c'est le contenu de votre dossier personnel qui devrait être 
+affiché au centre de la fenêtre. </text>
+
+<text> En cliquant sur un dossier dans cette zone, dolphin l'ouvrira, et c'est son contenu qui s'affichera alors dans la zone centrale. Au dessus de la zone centrale, vous avez les
+boutons standard. La flèche allant vers la gauche vous permet de revenir à la dernière page visitée. Celle allant vers la droite vous permet de retourner à la page suivante 
+après être revenu en arrière. Les boutons suivant vous permettent de changer la façon dont Dolphin organisera la vue. Ajustez-le selon vos préférences.</text>
+
+<text> En dessous des boutons standard, et juste au dessus de la zone centrale, l'arborescence est affiché sosu forme de texte. Le dossier visité actuellement est affiché en gras, et
+le dossier dit parent - le dossier qui contient celui que nous visitons - et affiché à gauche. Cliquer dessus vous y raménera. Si vous êtes pas exemple en train de visionner le
+contenu du dossier Document - lui-même contenu dans votre dossier personnel - vous devriez voir s'afficher quelque chose du genre "Dossier Personnel > Documents". Cliquez sur 
+"dossier personnel", et Dolphin affichera son contenu.</text> 
+
+<text> Lorsque vous pointez un fichier ou un dossier avec le curseur dans la zone centrale, vous verrez s'afficher un aperçu et des informations relatives à ce fichier dans la zone
+à droite. dans la zone gauche, vous devriez voir des raccourcis vers des points clefs du système de fichiers, comme les différents disques durs, votre dossier personnel, la 
+corbeille, ou encore, la racine. </text>
+
+</page>

@@ -1,0 +1,14 @@
+<page title="Gérez vos fichiers">
+
+<text> Nous l'avons vu, les données permanentes que vous stocker sur l'ordinateur sont agencées en fichiers. Un fichier est un document texte, 
+une image, un son, etc. Ses fichiers sont regroupés dans des dossiers. Nous avons vu que l'on pouvait créer des fichiers directement sur
+le bureau, mais il existe beaucoup d'emplacements. Sous Linux, la racine du système de fichiers, c'est à dire le dossier qui contient tous
+les autres est notée / </text>
+
+<text> Cependant, / contient essentiellement des fichiers nécéssaires au fonctionnement de Linux et des programmes. / contient aussi un dossier 
+nommé home. Si vous l'ouvrez, vous verrez qu'il contient également un dossier poru chaque utilisateur de l'ordinateur. Celui qui porte votre 
+nom est votre dossier personnel, nous verrons son contenu est son utilité plus loin.</text>
+
+<text> La partie suivante vous apprendra à vous servir de Dolphin, le programme qui vous servira à naviguer dans les dossiers. </text>
+
+</page>

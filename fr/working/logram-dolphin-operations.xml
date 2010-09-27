@@ -1,0 +1,14 @@
+<page title="Opérations sur les fichiers">
+
+<text> Maintenant que vous savez naviguer et retrouver un fichier sur le disque dur, nosu allons vori ce que nous pouvons en faire. En cliquant droit un un fichier -
+ou un dossier - vous ferez apparaître une liste d'actions, ou opérations que l'ont peut faire subire à ce fichier.</text>
+
+<text> En premier, vous avez 3 actions bien connues : couper, copier, coller. Leur nom est assez explicite. Lorsque vous copiez quelque chose, qu'il s'agisse d'un
+fichier, d'un dossier, d'une image ou même d'un passage de texte, il sera envoyé vers le <em>presse-papier</em>. Celui-ci contient tout ce que vous aurez copié.
+Notez tout de même que lorsque vous copiez un élément, il écrasera, et donc supprimera, tout ce qui se trouvait précédemment dans le presse-papier. Quand vous appelez
+la commande coller, vous créerez une parfaite copie du dernier élément que vous aurez copier. La commande couper, elle, envoie vers el presse-papier, mais supprime
+l'élément d'origine une fois que vous l'avez collé. Elle est donc utilisé pour déplacer des objets. </text>
+
+<text> Vous pouvez ensuite décider de renommer le fichier, c'est à dire changer le nom qui permet de le repérer. Nous avons déjà vu que le nom d'un fichier de composait
+de deux parties. La première est son nom, celle que vous pouvez modifier. La seconde renseigne le type de fichier - par exemple .png pour une image - et le programme qui
+servira à l'ouvrir. Ne modifiez donc bien que la première partie, qui se trouve à gauche du point.</text>

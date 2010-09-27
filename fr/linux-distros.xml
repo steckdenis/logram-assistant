@@ -1,0 +1,40 @@
+<page title='Les distributions'>
+<text>
+	Le <strong>projet GNU</strong> a vu dans Linux une occasion d'acquérir un système d'exploitation, c'est à dire une base sur laquelle bâtir.
+	Avec Linux et de petits projet libres, on vit se former les premières <em>distributions</em> de systèmes d'exploitation libres complets.
+</text>
+<text>
+	Grâce à la licence libre GPL, les programmeurs ont pu reprendre les <em>codes sources</em> de Linux et de petits programmes, et ont pu
+	les compiler, c'est à dire transformer du code source en programme utilisable par l'ordinateur, ensembles. Ainsi, les premières
+	<em>distributions</em> se sont formées. On a également vu l'apparition des premiers envirvonnements graphiques sous Linux. 
+</text>
+<text>
+	Le but d'une distribution est de fournir à l'utilisateur un système Linux opérationnel, prêt à l'emploi. Elle prend en charge de nombruex 
+	services comme l'installation des logiciels, les mises à jour, etc.
+</text>
+<text>
+	Parmi les distributions majeures, on peut citer <strong>Debian</strong>, <strong>Red Hat</strong> et <strong>Slackware</strong>. Cette dernière est la 
+	plus ancienne des grandes distributions, maintenue depuis 1992 par une seule personne, <strong>Patrick Volkerding</strong>. <strong>Slackware</strong> 
+	se veut légère, et sans applications inutiles. c'est pour celà que de nombreux serveurs l'adoptent. On connait surtout <strong>SuSE</strong>, distribution 
+	basée sur <strong>Slackware</strong> et développée par l'entreprise <strong>Novell</strong>. À l'origine, <strong>SuSE</strong> n'était qu'une 
+	traduction allemande de <strong>Slackware</strong>, mais son rachat par <strong>Novell</strong>, la distribution suivit un but plus commercial. Malgré la 
+	licence GPL, les versions de <strong>SuSE</strong>, ou de <strong>RedHat</strong>, apparue en 1993, étaient payantes, mais fournissaient une assistance technique. 
+	Plus tards, les projets <strong>CentOS</strong> et <strong>openSuSE</strong> - basés respectivement sur <strong>RedHat</strong> et <strong>SuSE</strong>, sont 
+	apparus, avec pour but de diffuser Linux gratuitement. Ce but était également poursuivi par le projet de distribution <strong>Debian</strong>, à l'heure actuelle
+	référence en matière de logiciel libre. La distribution <strong>Ubuntu</strong>, basée sur <strong>Debian</strong>, est devenu rapidement la plus utilisée grâce à sa facilité 
+	d'installation et d'utilisation. Les distributions diffèrent par leur philosophie. <strong>Novell</strong> n'hésite pas à signer des accords avec <strong>Microsoft</strong>
+	pour facilité les échanges entre les deux systèmes et ainsi éviter de nombreux soucis à l'utilisateurs dus à la compatibilité de son matériel ou de son logiciel. À l'inverse,
+	les développeurs de <strong>Debian</strong> ont tendance à refuser tout logiciel non libre dans leur distribution. 
+</text>
+<text>
+	Bien que toutes ces distributions soient des distributions Linux, on peut également citer les trois principales distributions de <strong>BSD</strong>. La seule différence est
+	que le <em>noyau</em> du <em>système d'exploitation</em>, n'est plus Linux mais BSD. La différence est en fin de compte minime poru ses deux systèmes inspirés d'<strong>Unix
+	</strong>. Les trois distributions BSD, à savoir netBSD, freeBSD (et son dérive PC-BSD) et openBSD, sont plus utilisées sur des serveurs que sur des systèmes personnels, en
+	particulier grâce à leur excellente fiabilité et sécurité, mais à cause de leur plsu grande complexité à mettre en place. 
+<text>
+	Logram est une distribution. Elle a la particularité de mettre en avant l'ergnomie et le fonctionnel, pour un environnement agréable et facile à utiliser basé sur <strong>KDE
+	</strong>. Comme tout utilisateur de Linux, vous êtes <em>libres</em>. Vous venez d'avoir un aperçu des principales distributions, et rien ne vous empêche d'aller les essayer, 
+	les adopter, et venir nous dire ce que vous préférez, pour que nous puissons maintenit Logram au top des exigences des utilisateurs.
+	Ne subissez plus, choisissez. 
+</text>
+</page>

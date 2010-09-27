@@ -1,0 +1,25 @@
+<page title="Bienvenue dans Logram !">
+    <text>
+        Bonjour et bienvenue dans [b]Logram[/b], une [em]distribution Linux[/em] simple, puissante et belle.
+    </text>
+    <text>
+        Cet assistant va vous apprendre tout ce que vous avez à savoir pour utiliser pleinement Logram, que vous
+        découvriez l'ordinateur, que vous soyiez un utilisateur averti mais découvrant l'univers [em]Linux[/em], ou
+        que vous ayiez des connaissances approfondies mais envie de découvrir encore plus de choses.
+    </text>
+    <text>
+        Cet assistant se découpe en 3 parties, comme précisé plus haut. Les deux premières parties vous apprennent
+        les bases nécessaires pour utiliser un environnement Linux quelconque. La 3[sup]ème[/sup] partie vous fait
+        découvrir toute la richesse de Logram.
+    </text>
+    <text>
+        Cliquez sur un des boutons pour commencer :
+    </text>
+    <button to="compu-home.xml" title="Je ne connais rien aux ordinateurs" />
+    <button to="linux-home.xml" title="J'aimerais découvrir Linux" />
+    <button to="logram-home.xml" title="Je connais Linux, pas Logram" />
+    <text>
+        Que l'aventure commence !
+    </text>
+    <image path="img/logram-logo.png" tooltip="Image de test" />
+</page>

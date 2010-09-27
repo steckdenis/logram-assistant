@@ -1,0 +1,32 @@
+<page> 
+<title> Histoire de Linux </title>
+<text>
+	Linux est donc l'un de ces systèmes d'exploitation. Cependant, pour bien comprendre la philosophie de ce qu'est Linux
+	actuellement, il faut revenir son histoire. 
+</text>
+<text> 
+	Celle-ci commence vers la fin des années 1960 quand les laboratoires Bell et deux autres firmes informatiques 
+	s'allient pour concevoir un système d'exploitation - le premier du nom - nommé Multics. Cependant le projet éclata
+	bien vite en discorde et les laboratoires Bell se retirèrent alors du projet, qui finit par être abandonné. 
+</text>
+<text>
+	Cependant, Kenneth Thompson des laboratoires Bell décide de reprende le projet. Il le nomme tout d'abor Unics, et 
+	l'écrit intégralement en assembleur. Le projet, renommé Unix, ne put être réellement fini grâce à l'invention du
+	langage de programmation C par Dennis Ritchie et Brian Kernighan. La version finale d'Unix, première version 
+	commerciale et payante, est distribuée en 1972. De nombreux systèmes se basèrent sur Unix, et ce dès 1974 avec la
+	première version de BSD. Unix et ses dérivées connaissent un succès un temps avant l'arrivée des systèmes de la
+	famille des DOS, comme le MS-DOS de Microsoft, qui aboutira au premier Windows en 1985. La politique commerciale de
+	Microsoft aprvint à obtenir que Windows soit installé sur tous les ordinateurs de type PC.
+</text>
+<text>
+	En 1991 cependant, Linus Torvalds, alos étudiant à l'université de Stockholm, s'exaspère la faible disponibilité du
+	serveur de l'université, tournant alors sous Unix. Il entreprends alors d'écrire un petit noyau de système 
+	d'exploitation basé sur Unix, qu'il nomme humoristiquement Linux.
+</text>
+<text>
+	Au départ un simple hobby, Linux prends de l'ampleur quand il croise le projet GNU de Richard Stallman. L'idée de
+	celui-ci était une informatique libre, par opposition à l'informatique commerciale de Microsoft. Ces logiciels dits
+	libres se veulent gratuit, et leur code source est ouvert à toute personne désirant le modifier. C'est grâce à ces
+	principes que Linux a pu se diffuser. 
+</text>
+</page>	

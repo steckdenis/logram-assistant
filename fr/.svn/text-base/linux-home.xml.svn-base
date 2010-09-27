@@ -1,0 +1,18 @@
+<page title="Découvrir Linux">
+    <text>
+        Bienvenue dans le monde Linux ! Dans cette partie, vous allez apprendre tout ce qu'il faut pour comprendre la suite. Une
+        partie importante sera consacrée à l'aspect philosophique de Linux, qui est en effet très riche.
+    </text>
+
+    <text>
+        Ici, nous n'allons pas trop parler de tout ce qui est technique, même si une partie y est réservée. Nous nous concentrerons
+        sur tout ça dans la partie «Découvrir Logram», puisque c'est avant tout à Logram que ça touche.
+    </text>
+
+    <text>
+        Commençons par le commencement, c'est à dire expliquer clairement et simplement ce que Linux est (vous en avez peut-être
+        une idée). Pour cela, rendez-vous dans la première partie.
+    </text>
+
+    <button to="linux-os.xml" title="Les systèmes d'exploitation" />
+</page>

@@ -1,0 +1,22 @@
+<page title="L'histoire de Linux"> 
+<text>
+	Linux est un système d'exploitation. Et pour bien comprendre sa philosophie, il faut se référer à son histoire.
+</text>
+<text> 
+	Tout commence avec l'un des tous premiers [i]systèmes d'exploitation[/i], [b]UNIX[/b], dont le 
+	développement commence, sous le nom de Multics vers la fin des années 1960, avant d'être abandonné. Il est alors 
+	repris par [b]Kenneth Thompson[/b], qui change son nom en Unics, puis UNIX. La première version finale
+	et commerciale apparaît en 1972, grâce à l'invention du langage de programmation C par [b]Dennis Ritchie[/b].
+</text>
+<text>
+	Bien qu'ancien, UNIX reste un système d'actualité grâce aux concepts puissants qu'il mettait en oeuvre. C'est pourquoi 
+	il a été repris par de nombreux autres systèmes, ce dès 1974 avec le premier système de la famille des [b]BSD[/b]. 
+	Cependant, il connaissait quelques défauts dans le domaine de l'interopérabilité. C'est pourquoi [b]Linus Torvalds[/b],
+	alors étudiant à l'université de Stockholm, dont le serveur sous UNIX souffrait de faible disponibilité, décide de créer un
+	[i]système d'exploitation[/i], qu'il nomme [b]Linux[b], reprenant les concepts d'UNIX.
+</text>
+<text>
+	Linux croise alors la route du mouvement des [b]Logiciels libres[/b] fondé par [b]Richard Stallman[/b], qui veut donner certaines
+	libertés à l'utilisateur de ces logiciels. Grâce à Linux, le logiciel libre acquiert un [i]système d'exploitation[/i], qui lui servira de base avec laquelle bâtir.
+</text>
+</page>	

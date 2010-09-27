@@ -1,0 +1,41 @@
+<page title="La console est votre amie">
+	<text>
+		Ce chapitre sera un peu particulier. Vous allez découvrir le minimum de choses à connaître sur la console. c'est un outil ancien et méconnu, mais qui reste
+		néanmoins puissant et très utile dans un système GNU/Linux. Même si des environnements graphiques sont de plsu en plus complets, la plupart des opérations
+		de maintenance sur votre système passent par la console. Comme nous l'avons vu précédemment, vous trouverez souvent de l'aide pour votre Linux sur des forums
+		et il n'est pas rare qu'on vous disent de recourir à la console. L'objectif est que vous ne soyez pas totalement perdu si celà vous arrive.
+	</text>
+	<text>
+		Concrètement, c'est quoi, une console ? Pour faire simple, vous avez l'habitude d'utiliser votre ordinateur avec tout ce qui forme un environnement 
+		[b]graphique[/b], à savoir curseur, icônes, fenêtres, menus, etc. En console, vous n'avez que du texte, et vous donnez des ordres directement à l'ordinateur
+		par le biais de [b]commandes[/b]. Notez qu'il existe sous GNU/Linux plusieurs consoles. Tout d'abord, six consoles en "plein écran", auxquels vous pourrez
+		accéder en appuyant sur les touches Ctrl + Alt + une touche entre F1 et F6. Les consoles sont nommées de TTY1 à TTY6. Ctrl + Alt + F7 vous fera revenir à 
+		l'environnement graphique. Cependant, la plus utilisée est une console "en graphique". Les environnements graphiques comme KDE pour Logram vous permettent
+		d'ouvrir une petite console dans une fenêtre. L'application se nomme [b]Konsole[/b]. Elle se trouve dans la catégorie [i]Utilitaires[/i] du menu des 
+		applications. Sous Logram, la console ressemble à ceci :
+	</text>
+	<img path="img/linux-console/konsole.png" tooltip="la console de Logram" />
+<page />	
+	<text>
+		L'objectif du chapitre n'est pas de faire un cours sur la console, cependant, il y à plusieurs choses à savoir. Tout d'abord, la console n'est en elle même 
+		pas dangereuse, mais permet d'exécuter des actions en tant que super-utilisateur, Root. Certaines personnes trouvent amusant de donner aux gens qui ne
+		connaissent pas grand chose des commandes sapables de détruire le système. Si quelqu'un vous demande d'executer [i]sudo rm -rf /*[/i] ou [i]:(){:|:&};:[/i]
+		ou encore une commande se terminant par [i]> /dev/sda[/i]. Si vous avez un doute, n'hésiter pas à demander l'effet de cette commande avant de l'utiliser.
+		Vous pouvez également consulter les [i]manpages[/i], le manuel complet de la ligne de commande. Pour cela, tapez [i]man le_nom_de_la_commande[/i].
+	</text>
+	<text>
+		Dans une console, on rentre les commandes après [b]une invite[/b]. L'invite se constitue de votre nom d'utilisateur puis d'un signe "@", du nom de votre 
+		ordinateur, des ":", du dossier actuel, puis d'un symbole "$" ou "#". Le "#" indique que vous êtes connecté avec les pouvoirs du super-utilisateur Root qui a 
+		le droit de détruire le système. "$" signifie que vous êtes connecté en tant qu'utilisateur normal. Vous recevrez peut-être des messages d'erreurs si vous 
+		essayez d'executer des commandes réservées à Root.
+	</text>
+	<text>
+		En console comme en graphique, on peut se déplacer dans les sous dossiers. Le dossier courant est affiché à la fin de l'invite. Le symbole "~" représente votre
+		dossier personnel (/home/vous), et le "/" représente la [i]racine du système de fichiers[/i]. La commande "pwd" vous renverra le dossier courant. On peut
+		également se déplacer dans les dossiers. la commande "cd" puis le chemin du dossier en question vous y emmenera. Retenez également la commande "ls" qui liste
+		le contenu du dossier courant.
+	</text>
+	<text>
+		Ceci n'était qu'un bref aperçu de la console GNU/Linux. Je vous invite à consulter nos tutoriaux en ligne pour en apprendre d'avantage.
+	</text>
+</page>

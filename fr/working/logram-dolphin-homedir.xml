@@ -1,0 +1,20 @@
+<page title="Le dossier personnel">
+
+<text> Maintenant que vous savez vous servir de Dolphin vous naviguer sur votre disque dur, nous allons revenir sur ce fameux dossier personnel. C'est un dossier,
+qui contient donc des fichiers et d'autres dossiers, qui est propre à un utilisateur de l'ordinateur. Si vous avez créé plusieurs <em>comptes d'utilisateurs</em> 
+sur l'ordinateur, vous devriez avoir plusieurs dossiers personnels. Ils sont contenus dans le dossier home, lui même contenu dans la racine, /. </text>
+
+<text> Le dossier personnel à été conçu pour acceuillir toutes vos données. Il a d'ailleurs été organisé pour vous aider à trier. En effet, mettre tous les fichiers
+dans le même dossier est très peu pratique. Si vous visualisez le contenu d'un tel dossier dans Dolphin, vous mettrez un bout de temps avant de trouver le fichier
+qui vous interesse. Ouvrez-donc votre dossier personnel avec Dolphin. Vous voyez qu'il contient de nombreux sous-dossiers : Documents, Images, Musique, Bureau,
+Videos, etc. Leur nom est plutôt explicite. Cependant, rien ne vous empêche de mettre une miage dans le dossier document, etc. C'est une simple question d'organisation.
+Notez que vous pouvez également créer des nouveaux dossiers. Avec Dolphin, il vous suffira de cliquer droit dans une partie vide de la zone centrale puis de mettre votre
+curseur sur "Créer un nouveau", et sélectionner "Dossier" dans la liste qui apparaîtra. Choisissez ensutie un nom pour votre dossier.</text>
+
+<text> Un des dossiers devrait vous intriguer, il s'agit du dossier Bureau. Je vous avez dit que le bureau était constitué de l'arrière plan et des icones, visibles quand
+il n'y à pas de fenêtre par dessus. C'est exact, cependant, toutes ces icones et fichiers sont enregistré dans un dossier, il s'agit du dossier Bureau, dans le dossier
+personnel. Le Bureau se contente d'afficher le contenu de ce dossier dans le cadre prévu à cet effet. Les raccourcis vers vos programmes sont également des fichiers,
+qui portent l'extention - c'est à dire le type de fichier - .desktop. C'est ainsi que le Bureau reconnait qu'il s'agit de raccourcis. </text>
+
+<text> C'est dans le dossier personnel que vous enregistrerez toutes vos données et votre travail. Il ets donc important de savoir s'y repérer. </text>
+</page>

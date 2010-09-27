@@ -1,0 +1,9 @@
+To launch Assistant : 
+
+	./assistant fr/tree.xml
+
+Replace "fr" with the ISO code of any supported language (currently only French)
+
+If you ommit this parameter, /usr/share/assistant/<current system locale>/tree.xml is used
+
+Have fun :) .

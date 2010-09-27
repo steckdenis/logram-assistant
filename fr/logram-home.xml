@@ -1,0 +1,19 @@
+<page title="Découvrir Logram">
+    <text>
+        Vous allez ici apprendre à vous servir de tout le potentiel offert par Logram et les applications qu'il propose.
+		Le partage de fichiers en ligne, la personnalisation de l'environnement, la communication avec vos proches, la
+		bureautique, le traitement d'images, l'administration système, tout ceci n'aura plus de secret pour vous !
+    </text>
+		<menuentry title="L'environnement de bureau" to="logram-kde.xml" icon="img/shared/kde-logo.png">
+			Personnalisez votre environnement pour qu'il vous convienne le mieux, et exploitez son potentiel.
+		</menuentry>
+		<menuentry title="Gérez vos fichiers" to="logram-doplhin.xml" icon="img/logram-home/file-manager.png">
+			Photos, vidéos, musiques, documents, un ordinateur bien rangé est un ordinateur facile et rapide à utiliser.
+		</menuentry>
+		<menuentry title="Le réseau et l'Internet" to="logram-konqueror.xml" icon="img/logram-home/web-browser.png">
+			Découvrez l'Internet et la mise en réseau, pour partager des documents, chercher des informations et discuter avec des gens.
+		</menuentry>
+		<menuentry title="La bureautique" to="logram-koffice.xml" icon="img/logram-home/koffice.png">
+			Créer de belles présentations et de beaux documents n'aura plus de secrets pour vous.
+		</menuentry>
+</page>

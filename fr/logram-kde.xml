@@ -1,0 +1,25 @@
+<page title="KDE, l'environnement de bureau">
+	<text>
+		Vous avez appris dans la partie précédente ce qu'était Linux, une distribution, et que Logram en était une.
+		Il me faut maintenant vous présenter l'environnement de bureau que Logram utilise, il s'agit de KDE.
+	</text>
+	<text>
+		L'histoire de KDE coïncide parfaitment avec celle de Qt. Qt est une [i]bibliothèque de programmation[/i],
+		développée par Trolltech puis Nokia depuis le début des années 90. Qt fournit un ensemble d'objets prêt à 
+		être assemblés pour créer des interfaces graphiques. C'est donc avec cette bibliothèque que KDE put concevoir le
+		premier vrai environnement de bureau pour Linux, rendant ainsi ce dernier plus populaire auprès des non-initiés.
+	</text>
+	<text>
+		KDE a depuis bien évolué, et même s'il a été un moment moins apprécié que son principal rival Gnome, est revenu sur le devant de la scène avec la version 4, bien plus évoluée graphiquement et qui dispose de beaucoup d'applications parfaitement integrées. 
+	</text>
+	<menuentry title="Découverte du bureau" to="logram-kde-desktop.xml" icon="img/logram-kde/desktop.png">
+		Si vous êtes nouvel utilisateur de KDE, c'est par là que vous commencerez à apprendre les bases de l'utilisation de votre bureau.
+		
+	</menuentry>
+	<menuentry title="Le Panel" to="logram-kde-panel" icon="img/logram-kde/panel.png">
+		Le tableau de bord de KDE - ou panel - est un outil incroyablement puissant et complet. Vous apprendez à l'utiliser dans cette partie.
+	</menuentry>
+	<menuentry title="Le menu K" to="logram-kde-k.xml" icon="img/shared/kde-logo.png">
+		Le menu K est un élément central du bureau KDE : il vous permet d'accéder à toutes les programmes et fonctionnalités de KDE.
+	</menuentry>
+</page>

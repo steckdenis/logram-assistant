@@ -1,0 +1,37 @@
+<page title="La philosophie du libre et les distributions">
+<text>
+	À sa création, Linux s'est rapidement rattahcé au mouvement du <strong>logiciel libre</strong>. Ce mouvement était menu par le <strong>projet GNU</strong>
+	fondé par <strong>Richard Stallman</strong>. L'acronyme GNU signifie Gnu's Not Unix, c'ets à dire Gnu n'est pas Unix. En effet, le projet <strong>GNU</strong>
+	voulait reprendre les concepts du système libre <strong>UNIX</strong>, mais différait sur le plan de la philosophie. Alors qu'<strong>Unix</strong> était
+	commercial,et pouvait rapporter de l'argent à son propriétaire, <strong>GNU</strong> voulait accorder le plus de libertés possibles à l'utilisateur.
+</text>
+<text>
+	Le projet <strong>GNU</strong> avait pour celà inventé un nouveau concept : le <em>Copyleft</em>, par opposition au Copyright (cf. Droits d'auteurs) des
+	programmes propriétaires.
+</text>
+<text>
+	Un programme propriétaire peut s'assimiler à un brevet. On parle d'ailleurs de <em>brevet logiciel</em>. Un texte de licence juridique et commerciale
+	protège l'auteur, en lui garantissant qu'il est bien l'auteur de ce programme, et l'inventeur de certains concepts. les logiciels propriétaires sont
+	hélas bien souvent payants, et l'utilisateur ne peut les utiliser que dans les conditions fixées par le contrat de licence logicielle. Par ailleurs, le
+	<em>code source</em>, c'est à dire le code écrit dans un <em>langage de programmation</em> pour créer le logiciel, n'est pas disponible. Ainsi, personne
+	ne pourra voir comment le programme à été conçu ni s'en inspirer.
+</text>
+<text>
+	Les programmes dits <strong>libres</strong> sont totalement différents. La licence libre <strong>GNU GPL</strong> (pour General Public Licence), a été
+	écrite de sorte à garantir le plus de libertés possibles à l'utilisateur. Cette licence rend le program <em>Open Source</em>, suivant les principes du
+	<em>Copyleft</em>. Celui-ci garantit à l'utilisateur quatre libertés fondamentales : Pouvoir obtenir le programme et l'utiliser, de le copier, de le 
+	modifier, mais pas ajouter des restrictions. Concrètement, l'utilisateur aura accès au <em>code source</em>, et pourra le modifier, que ce soit pour usage 
+	personnel ou pour le redistribuer. La seule restriction étant que les redistributions doivent rester sous licence GPL.
+</text>
+<text>
+	La GPL n'est aps la seule licence libre existante. La licence LGPL (Lesser General Public Licence, ou Licence Publique Générale Modifiée), est une variante
+	assez subtile conçue pour les <em>bibliothèques de programmtion</em>. La licence BSD - utilisée d'ailleurs pas tous les systèmes d'exploitation de type BSD -
+	est assez semblable à la GPL, à ceci près qu'elle perd le principe <em>d'hérédité</em>. Les redistributions d'un programme libre sous licence BSD pourront être
+	propriétaires. Par exemple, Mac OS X d'Apple se base sur le noyau Darwin, lui-même basé sur BSD, grâce à cette licence.
+</text>
+<text>
+	Par ailleurs, les licences libres entrent parfois en conflit avec les licences propriétaires. Par exemple, SCO, l'entreprise ayant racheté le code source
+	propriétaire d'<strong>Unix</strong>, considère avoir acheté également la propriété intellectuelle, et donc tous les concepts d'<strong>Unix</strong> repris
+	par Linux. Des procès ont longtemps eut lieu entre SCO et Linux, bien que la situation ait l'air d'être aujourd'hui calmée.
+</text>
+</page>

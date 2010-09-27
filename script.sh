@@ -1,0 +1,1 @@
+./assistant fr/tree.xml
